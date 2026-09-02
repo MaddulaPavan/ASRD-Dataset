@@ -20,6 +20,40 @@ tags:
 - unicode-eval
 - prompt-transformations
 pretty_name: "Adversarial Surface-Form Robustness Dataset (ASRD)"
+configs:
+- config_name: default
+  data_files:
+  - split: train
+    path: "data/prompts_master.parquet"
+  default: true
+- config_name: 0_baseline
+  data_files:
+  - split: train
+    path: "data/families/family_0_baseline.csv"
+- config_name: 1_emoji
+  data_files:
+  - split: train
+    path: "data/families/family_1_emoji.csv"
+- config_name: 2_homoglyph
+  data_files:
+  - split: train
+    path: "data/families/family_2_homoglyph.csv"
+- config_name: 3_leetspeak_emoji
+  data_files:
+  - split: train
+    path: "data/families/family_3_leetspeak_emoji.csv"
+- config_name: 4_encoded_emoji
+  data_files:
+  - split: train
+    path: "data/families/family_4_encoded_emoji.csv"
+- config_name: 5_invisible
+  data_files:
+  - split: train
+    path: "data/families/family_5_invisible.csv"
+- config_name: 6_hybrid
+  data_files:
+  - split: train
+    path: "data/families/family_6_hybrid.csv"
 ---
 
 # Adversarial Surface-Form Robustness Dataset (ASRD)

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the paper below."
+title: "Adversarial Surface-Form Robustness Dataset (ASRD)"
+type: dataset
+authors:
+  - family-names: Maddula
+    given-names: Pavan
+    email: mpavangopinadh@gmail.com
+repository-code: "https://github.com/MaddulaPavan/ASRD-Dataset"
+url: "https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset"
+license: CC-BY-NC-4.0
+keywords:
+  - ai-safety
+  - red-teaming
+  - llm-evaluation
+  - adversarial-robustness
+  - unicode
+preferred-citation:
+  type: conference-paper
+  title: "Quad-State Safety Evaluation of Open-Weight Large Language Models on Non-Canonical Inputs"
+  authors:
+    - family-names: Maddula
+      given-names: Pavan
+  collection-title: "NeurIPS 2026 Workshop on Self-Evolving Diversity-Driven Search for Robust AI Systems (EvoRobust)"
+  conference:
+    name: "EvoRobust @ NeurIPS 2026"
+    city: Sydney
+    country: AU
+  year: 2026
+  url: "https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset"

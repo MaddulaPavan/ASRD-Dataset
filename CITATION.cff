@@ -2,6 +2,16 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite the paper below."
 title: "Adversarial Surface-Form Robustness Dataset (ASRD)"
 type: dataset
+version: 1.0.0
+date-released: 2026-10-02
+doi: 10.5281/zenodo.23103901
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23103901
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23103902
+    description: "Version 1.0.0, evaluated in the paper"
 authors:
   - family-names: Maddula
     given-names: Pavan

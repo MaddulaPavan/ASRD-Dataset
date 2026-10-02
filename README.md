@@ -74,7 +74,9 @@ configs:
 > **Paper:** *Quad-State Safety Evaluation of Open-Weight Large Language Models on Non-Canonical Inputs*  
 > **Author:** Pavan Maddula
 
-**Links:** [GitHub](https://github.com/MaddulaPavan/ASRD-Dataset) · [Hugging Face](https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset)
+**Links:** [GitHub](https://github.com/MaddulaPavan/ASRD-Dataset) · [Hugging Face](https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset) · [Zenodo](https://doi.org/10.5281/zenodo.23103901)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23103901.svg)](https://doi.org/10.5281/zenodo.23103901)
 
 ---
 
@@ -327,6 +329,20 @@ print(df.groupby(["family_id", "risk_category"]).size())
   booktitle = {NeurIPS 2026 Workshop on Self-Evolving Diversity-Driven Search for Robust AI Systems (EvoRobust)},
   year      = {2026},
   url       = {https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset}
+}
+```
+
+To cite the dataset itself, use its Zenodo DOI. The concept DOI [10.5281/zenodo.23103901](https://doi.org/10.5281/zenodo.23103901) always resolves to the latest version; v1.0.0, the version evaluated in the paper, is archived as [10.5281/zenodo.23103902](https://doi.org/10.5281/zenodo.23103902).
+
+```bibtex
+@dataset{maddula2026asrd,
+  title     = {Adversarial Surface-Form Robustness Dataset (ASRD)},
+  author    = {Maddula, Pavan},
+  year      = {2026},
+  version   = {1.0.0},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23103902},
+  url       = {https://doi.org/10.5281/zenodo.23103902}
 }
 ```
 

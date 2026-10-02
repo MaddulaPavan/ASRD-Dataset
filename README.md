@@ -16,8 +16,9 @@
 - **[2026/09]** 🎉 Accepted at **EvoRobust @ NeurIPS 2026**, the NeurIPS 2026 Workshop on Self-Evolving Diversity-Driven Search for Robust AI Systems (Sydney, Australia).
 - **[2026/10]** 📦 v1.0.0 released and archived on Zenodo ([10.5281/zenodo.23103902](https://doi.org/10.5281/zenodo.23103902)).
 
-**Paper:** Quad-State Safety Evaluation of Open-Weight Large Language Models on Non-Canonical Inputs  
-**Author:** Pavan Maddula
+> [!NOTE]
+> **Paper:** Quad-State Safety Evaluation of Open-Weight Large Language Models on Non-Canonical Inputs  
+> **Author:** Pavan Maddula
 
 ## Key Statistics
 

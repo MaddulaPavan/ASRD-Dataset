@@ -28,8 +28,6 @@
     <td align="center"><b>300</b><br>Harmful seeds</td>
     <td align="center"><b>7</b><br>Surface-form families</td>
     <td align="center"><b>6</b><br>Risk categories</td>
-    <td align="center"><b>5</b><br>Open-weight models</td>
-    <td align="center"><b>10,500</b><br>Labeled responses</td>
   </tr>
 </table>
 

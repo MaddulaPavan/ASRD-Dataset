@@ -27,3 +27,7 @@ ENV/
 .vscode/
 *.DS_Store
 Thumbs.db
+
+# Paper drafts (not part of the dataset release)
+paper.tex
+paper_workshop.txt

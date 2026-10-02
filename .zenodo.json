@@ -1,0 +1,27 @@
+{
+  "upload_type": "dataset",
+  "title": "Adversarial Surface-Form Robustness Dataset (ASRD)",
+  "creators": [
+    {
+      "name": "Maddula, Pavan"
+    }
+  ],
+  "description": "<p>The Adversarial Surface-Form Robustness Dataset (ASRD) contains 2,100 prompts: 300 harmful seeds across 6 semantic risk categories adapted from HarmBench, each rendered in 7 prompt families (canonical baseline, emoji augmentation, homoglyph substitution, leetspeak and emoji, Base64 encoded wrappers, invisible Unicode insertion, and hybrid). The non-canonical variants are produced with deterministic, rule-based Python transformations.</p><p>ASRD accompanies the paper <em>Quad-State Safety Evaluation of Open-Weight Large Language Models on Non-Canonical Inputs</em>, accepted at EvoRobust @ NeurIPS 2026, the NeurIPS 2026 Workshop on Self-Evolving Diversity-Driven Search for Robust AI Systems.</p><p>The dataset contains harmful requests only and does not include instructions or answers to those requests. It is released for AI safety research and evaluation under CC BY-NC 4.0, and use is subject to the ASRD Responsible Use Policy (RESPONSIBLE_USE.md).</p>",
+  "access_right": "open",
+  "license": "cc-by-nc-4.0",
+  "keywords": [
+    "ai-safety",
+    "red-teaming",
+    "llm-evaluation",
+    "adversarial-robustness",
+    "unicode",
+    "jailbreak-benchmark"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset",
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset"
+    }
+  ]
+}

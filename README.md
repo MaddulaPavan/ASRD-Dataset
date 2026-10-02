@@ -1,72 +1,3 @@
----
-annotations_creators:
-- machine-generated
-language:
-- en
-license: cc-by-nc-4.0
-multilinguality:
-- monolingual
-size_categories:
-- 1K<n<10K
-source_datasets:
-- original
-task_categories:
-- text-generation
-tags:
-- ai-safety
-- adversarial-robustness
-- red-teaming
-- jailbreak-benchmark
-- unicode-eval
-- prompt-transformations
-- llm-safety-evaluation
-pretty_name: "Adversarial Surface-Form Robustness Dataset (ASRD)"
-extra_gated_heading: "Accept the ASRD Responsible Use Policy to access this dataset"
-extra_gated_prompt: >-
-  ASRD contains harmful requests presented in non-canonical surface forms and is
-  released for AI safety research and evaluation only. The dataset is licensed under
-  CC BY-NC 4.0, and access requires agreement to the
-  [ASRD Responsible Use Policy](https://github.com/MaddulaPavan/ASRD-Dataset/blob/main/RESPONSIBLE_USE.md).
-extra_gated_fields:
-  Affiliation: text
-  I agree to use this dataset only for research and evaluation, in accordance with the ASRD Responsible Use Policy: checkbox
-extra_gated_button_content: "Agree and access"
-configs:
-- config_name: default
-  data_files:
-  - split: train
-    path: "data/prompts_master.csv"
-  default: true
-- config_name: 0_baseline
-  data_files:
-  - split: train
-    path: "data/families/family_0_baseline.csv"
-- config_name: 1_emoji
-  data_files:
-  - split: train
-    path: "data/families/family_1_emoji.csv"
-- config_name: 2_homoglyph
-  data_files:
-  - split: train
-    path: "data/families/family_2_homoglyph.csv"
-- config_name: 3_leetspeak_emoji
-  data_files:
-  - split: train
-    path: "data/families/family_3_leetspeak_emoji.csv"
-- config_name: 4_encoded_emoji
-  data_files:
-  - split: train
-    path: "data/families/family_4_encoded_emoji.csv"
-- config_name: 5_invisible
-  data_files:
-  - split: train
-    path: "data/families/family_5_invisible.csv"
-- config_name: 6_hybrid
-  data_files:
-  - split: train
-    path: "data/families/family_6_hybrid.csv"
----
-
 # Adversarial Surface-Form Robustness Dataset (ASRD)
 
 > **Accepted at EvoRobust @ NeurIPS 2026**, the NeurIPS 2026 Workshop on *Self-Evolving Diversity-Driven Search for Robust AI Systems* (Sydney, Australia).
@@ -259,6 +190,8 @@ ASRD-Dataset/
 ## 9. Usage
 
 ### 🤗 Datasets
+
+Access on the Hugging Face Hub is gated. Accept the Responsible Use Policy on the [dataset page](https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset), then authenticate with `hf auth login` (or set the `HF_TOKEN` environment variable) before loading.
 
 ```python
 from datasets import load_dataset

@@ -7,7 +7,6 @@
 
 💻 [GitHub](https://github.com/MaddulaPavan/ASRD-Dataset) · 🤗 [Dataset](https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset) · 📦 [Zenodo](https://doi.org/10.5281/zenodo.23103901) · 📝 [Cite](#12-citation) · 🛡️ [Responsible Use](https://github.com/MaddulaPavan/ASRD-Dataset/blob/main/RESPONSIBLE_USE.md)
 
-> [!NOTE]
 > 🎉 **Accepted at EvoRobust @ NeurIPS 2026**, the NeurIPS 2026 Workshop on *Self-Evolving Diversity-Driven Search for Robust AI Systems* (Sydney, Australia).
 >
 > **Paper:** *Quad-State Safety Evaluation of Open-Weight Large Language Models on Non-Canonical Inputs*  

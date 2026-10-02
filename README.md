@@ -6,22 +6,20 @@
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-Dataset-FFB000?style=for-the-badge)](https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset)
 
 [![Version](https://img.shields.io/github/v/release/MaddulaPavan/ASRD-Dataset?label=Version&color=007EC6)](https://github.com/MaddulaPavan/ASRD-Dataset/releases)
-[![Last updated](https://img.shields.io/github/last-commit/MaddulaPavan/ASRD-Dataset?label=Last%20updated&color=007EC6)](https://github.com/MaddulaPavan/ASRD-Dataset/commits/main)
-![Domain: AI Safety](https://img.shields.io/badge/Domain-AI_Safety-007EC6)
-![Domain: Red-Teaming](https://img.shields.io/badge/Domain-Red--Teaming-007EC6)
-![Task: LLM Safety Evaluation](https://img.shields.io/badge/Task-LLM_Safety_Evaluation-007EC6)
-![Language: English](https://img.shields.io/badge/Language-English-007EC6)
 ![Format: Parquet, JSONL, CSV](https://img.shields.io/badge/Format-Parquet_%C2%B7_JSONL_%C2%B7_CSV-007EC6)
 [![Access: Gated on HF](https://img.shields.io/badge/Access-Gated_%28HF%29-007EC6)](https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset)
 
 💻 [GitHub](https://github.com/MaddulaPavan/ASRD-Dataset) · 🤗 [Dataset](https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset) · 📦 [Zenodo](https://doi.org/10.5281/zenodo.23103901) · 📝 [Cite](#12-citation) · 🛡️ [Responsible Use](https://github.com/MaddulaPavan/ASRD-Dataset/blob/main/RESPONSIBLE_USE.md)
 
-🎉 **Accepted at EvoRobust @ NeurIPS 2026**, the NeurIPS 2026 Workshop on Self-Evolving Diversity-Driven Search for Robust AI Systems (Sydney, Australia).
+## News
+
+- **[2026/09]** 🎉 Accepted at **EvoRobust @ NeurIPS 2026**, the NeurIPS 2026 Workshop on Self-Evolving Diversity-Driven Search for Robust AI Systems (Sydney, Australia).
+- **[2026/10]** 📦 v1.0.0 released and archived on Zenodo ([10.5281/zenodo.23103902](https://doi.org/10.5281/zenodo.23103902)).
 
 **Paper:** Quad-State Safety Evaluation of Open-Weight Large Language Models on Non-Canonical Inputs  
 **Author:** Pavan Maddula
 
-## At a Glance
+## Key Statistics
 
 <table>
   <tr>
@@ -33,8 +31,6 @@
     <td align="center"><b>10,500</b><br>Labeled responses</td>
   </tr>
 </table>
-
-**Built for:** AI safety researchers, red-teamers, and model developers testing how LLMs handle emojis, homoglyphs, leetspeak, Base64, and invisible Unicode. **Measured with:** the Quad-State Evaluation Rubric, which separates safe refusals from comprehension failures.
 
 ---
 

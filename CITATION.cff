@@ -16,6 +16,8 @@ authors:
   - family-names: Maddula
     given-names: Pavan
     email: mpavangopinadh@gmail.com
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0000-9352-488X"
 repository-code: "https://github.com/MaddulaPavan/ASRD-Dataset"
 url: "https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset"
 license: CC-BY-NC-4.0
@@ -31,6 +33,8 @@ preferred-citation:
   authors:
     - family-names: Maddula
       given-names: Pavan
+      affiliation: "Independent Researcher"
+      orcid: "https://orcid.org/0009-0000-9352-488X"
   collection-title: "NeurIPS 2026 Workshop on Self-Evolving Diversity-Driven Search for Robust AI Systems (EvoRobust)"
   conference:
     name: "EvoRobust @ NeurIPS 2026"

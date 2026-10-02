@@ -26,7 +26,7 @@ extra_gated_prompt: >-
   ASRD contains harmful requests presented in non-canonical surface forms and is
   released for AI safety research and evaluation only. The dataset is licensed under
   CC BY-NC 4.0, and access requires agreement to the
-  [ASRD Responsible Use Policy](https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset/blob/main/RESPONSIBLE_USE.md).
+  [ASRD Responsible Use Policy](https://github.com/MaddulaPavan/ASRD-Dataset/blob/main/RESPONSIBLE_USE.md).
 extra_gated_fields:
   Affiliation: text
   I agree to use this dataset only for research and evaluation, in accordance with the ASRD Responsible Use Policy: checkbox
@@ -314,7 +314,7 @@ print(df.groupby(["family_id", "risk_category"]).size())
 > **For research and evaluation only.**  
 > This dataset contains harmful requests presented in non-canonical surface forms and is intended for evaluating the safety of large language models. It contains requests only and does not include instructions or answers to those requests, and the prompts contain no personal data or names of real individuals. Raw model responses are not released.
 >
-> The dataset is released under the **CC BY-NC 4.0** license, and access on the Hugging Face Hub requires agreement to the **[ASRD Responsible Use Policy](RESPONSIBLE_USE.md)**, which restricts its use to research and evaluation. It may not be used for malicious purposes, operational attacks, or harassment, and may not be integrated into offensive tooling.
+> The dataset is released under the **CC BY-NC 4.0** license, and access on the Hugging Face Hub requires agreement to the **[ASRD Responsible Use Policy](https://github.com/MaddulaPavan/ASRD-Dataset/blob/main/RESPONSIBLE_USE.md)**, which restricts its use to research and evaluation. It may not be used for malicious purposes, operational attacks, or harassment, and may not be integrated into offensive tooling.
 
 ---
 

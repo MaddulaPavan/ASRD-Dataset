@@ -1,13 +1,14 @@
 # Adversarial Surface-Form Robustness Dataset (ASRD)
 
-[![EvoRobust @ NeurIPS 2026](https://img.shields.io/badge/EvoRobust_%40_NeurIPS_2026-Accepted-2E8B57)](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/EvoRobust)
-[![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-007EC6)](https://github.com/MaddulaPavan/ASRD-Dataset/blob/main/LICENSE)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23103901-007EC6)](https://doi.org/10.5281/zenodo.23103901)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Dataset-007EC6)](https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-007EC6)](https://github.com/MaddulaPavan/ASRD-Dataset)
-[![Cite](https://img.shields.io/badge/Cite-BibTeX-007EC6)](#12-citation)
-[![Responsible Use](https://img.shields.io/badge/Responsible_Use-Policy-007EC6)](https://github.com/MaddulaPavan/ASRD-Dataset/blob/main/RESPONSIBLE_USE.md)
+[![EvoRobust @ NeurIPS 2026](https://img.shields.io/badge/NeurIPS_2026-EvoRobust_Workshop-0057B8?style=for-the-badge)](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/EvoRobust)
+[![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-4C9A2A?style=for-the-badge)](https://github.com/MaddulaPavan/ASRD-Dataset/blob/main/LICENSE)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23103901-1682D4?style=for-the-badge)](https://doi.org/10.5281/zenodo.23103901)
+[![Dataset](https://img.shields.io/badge/🤗_Hugging_Face-Dataset-FFB000?style=for-the-badge)](https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset)
 
+💻 [GitHub](https://github.com/MaddulaPavan/ASRD-Dataset) · 🤗 [Dataset](https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset) · 📦 [Zenodo](https://doi.org/10.5281/zenodo.23103901) · 📝 [Cite](#12-citation) · 🛡️ [Responsible Use](https://github.com/MaddulaPavan/ASRD-Dataset/blob/main/RESPONSIBLE_USE.md)
+
+> **📢 News**
+>
 > 🎉 **Accepted at EvoRobust @ NeurIPS 2026**, the NeurIPS 2026 Workshop on *Self-Evolving Diversity-Driven Search for Robust AI Systems* (Sydney, Australia).
 >
 > **Paper:** *Quad-State Safety Evaluation of Open-Weight Large Language Models on Non-Canonical Inputs*  

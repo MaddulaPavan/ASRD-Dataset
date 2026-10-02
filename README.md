@@ -1,17 +1,13 @@
 # Adversarial Surface-Form Robustness Dataset (ASRD)
 
-**Do LLM safety evaluations hold up when harmful requests aren't written in plain text?**
-
 [![EvoRobust @ NeurIPS 2026](https://img.shields.io/badge/NeurIPS_2026-EvoRobust_Workshop-0057B8?style=for-the-badge)](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/EvoRobust)
 [![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-4C9A2A?style=for-the-badge)](https://github.com/MaddulaPavan/ASRD-Dataset/blob/main/LICENSE)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23103901-1682D4?style=for-the-badge)](https://doi.org/10.5281/zenodo.23103901)
 [![Dataset](https://img.shields.io/badge/🤗_Hugging_Face-Dataset-FFB000?style=for-the-badge)](https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset)
 
-![AI Safety](https://img.shields.io/badge/Domain-AI_Safety-blue) ![Red-Teaming](https://img.shields.io/badge/Domain-Red--Teaming-blue) ![Task](https://img.shields.io/badge/Task-LLM_Safety_Evaluation-purple) ![Format](https://img.shields.io/badge/Format-Parquet_%7C_JSONL_%7C_CSV-grey)
-
 💻 [GitHub](https://github.com/MaddulaPavan/ASRD-Dataset) · 🤗 [Dataset](https://huggingface.co/datasets/pavanmaddula/ASRD-Dataset) · 📦 [Zenodo](https://doi.org/10.5281/zenodo.23103901) · 📝 [Cite](#12-citation) · 🛡️ [Responsible Use](https://github.com/MaddulaPavan/ASRD-Dataset/blob/main/RESPONSIBLE_USE.md)
 
-> [!IMPORTANT]
+> [!NOTE]
 > 🎉 **Accepted at EvoRobust @ NeurIPS 2026**, the NeurIPS 2026 Workshop on *Self-Evolving Diversity-Driven Search for Robust AI Systems* (Sydney, Australia).
 >
 > **Paper:** *Quad-State Safety Evaluation of Open-Weight Large Language Models on Non-Canonical Inputs*  
